@@ -2,25 +2,25 @@
 
 Collection of organisations for the NodeJS developer.
 
-### NodeJS 
+### NodeJS
 - Current ACTIVE LTS is v6 + v8.
 - https://github.com/nodejs/Release#release-schedule
 
-### WhatWG:
+### WhatWG
 - HTML5 spec + proposals
 - W3C is old, not maintained and duplicates whatwg code.
 
-### TSC:
+### TSC
 - "Technical Steering Committee" for Node.js
 - Governing body of Node.js Foundation.
 - Responsible for Node.js core project
 - Ayo was created as ppl not happy with TSC.
 
-### ECMAScript/ES 
+### ECMAScript/ES
 - Scripting language for the standard ECMA-262 (see ECMA section)
 - the Javascript standard
 
-### TC29:
+### TC29
 - Technical Committee for Javascript 
 - handles ES spec and proposals
   - Technical Committee.
@@ -33,14 +33,14 @@ Collection of organisations for the NodeJS developer.
 - Yearly release of features which are ready. stage 4.
 - Bi-monthly meetings with important ppl.
 
-### ECMA:
+### ECMA
 - Industrial Association of standards + committees for IT.. handles JS language.
 - driven by industry.
 - standards: https://www.ecma-international.org/publications/standards/Standard.htm
   - includes JSON, i18n, ES6.
 - Technical Committees: https://www.ecma-international.org/memento/TCs&TGs.htm 
 
-### JS Foundation 
+### JS Foundation
 - Supports projects + tools in JS community
 - it's jquery and dojo foundations combined.
 - collaborates with Node + TC39 foundation
