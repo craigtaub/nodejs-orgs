@@ -1,6 +1,6 @@
 # NodeJS related organisations
 
-Collection of organisations for the NodeJS developer.
+Collection of organisations and standards relating to Web/NodeJS/Javascript.
 
 PLEASE add any others you feel are missing.
 
