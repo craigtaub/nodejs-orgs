@@ -2,6 +2,8 @@
 
 Collection of organisations for the NodeJS developer.
 
+PLEASE add any others you feel are missing.
+
 ### NodeJS
 - Current ACTIVE LTS is v6 + v8.
 - https://github.com/nodejs/Release#release-schedule
