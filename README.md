@@ -2,7 +2,7 @@
 
 Collection of organisations and standards relating to Web/NodeJS/Javascript. Worth keeping an eye on or at least having an idea exist.
 
-PLEASE add any others you feel are missing.
+PLEASE feel free to add any others you feel are missing 🙏 😊
 
 ### NodeJS
 - Current ACTIVE LTS is v6 + v8.
