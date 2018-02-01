@@ -22,7 +22,7 @@ PLEASE feel free to add any others you feel are missing 🙏 😊
 - Scripting language for the standard ECMA-262 (see ECMA section)
 - the Javascript standard
 
-### TC29
+### TC39
 - Technical Committee for Javascript 
 - handles ES spec and proposals
   - Technical Committee.
