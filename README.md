@@ -48,3 +48,4 @@ PLEASE feel free to add any others you feel are missing 🙏 😊
 - collaborates with Node + TC39 foundation
 - care about the JS community as a whole.
 - have a code of conduct 
+- NodeJS Foudation and JS Foundation merged
