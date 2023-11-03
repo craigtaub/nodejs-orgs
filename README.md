@@ -48,7 +48,7 @@ PLEASE feel free to add any others you feel are missing 🙏 😊
   - includes JSON, i18n, ES6.
 - Technical Committees: https://www.ecma-international.org/memento/TCs&TGs.htm 
 
-### JS Foundation
+### OpenJS Foundation
 - Supports projects + tools in JS community
 - it's jquery and dojo foundations combined.
 - collaborates with Node + TC39 foundation
