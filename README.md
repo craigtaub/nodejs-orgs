@@ -21,6 +21,8 @@ PLEASE feel free to add any others you feel are missing 🙏 😊
 ### WinterCG
 - "Web-interoperable Runtimes Community Group"
 - Javascript runtime standards (mainly server)
+- Common API's and things available in the runtime.
+- So we dont have to just rely on NodeJS.
 
 ### ECMAScript/ES
 - Scripting language for the standard ECMA-262 (see ECMA section)
