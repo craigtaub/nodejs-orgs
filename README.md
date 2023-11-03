@@ -18,6 +18,10 @@ PLEASE feel free to add any others you feel are missing 🙏 😊
 - Responsible for Node.js core project
 - Ayo was created as ppl not happy with TSC.
 
+### WinterCG
+- "Web-interoperable Runtimes Community Group"
+- Javascript runtime standards (mainly server)
+
 ### ECMAScript/ES
 - Scripting language for the standard ECMA-262 (see ECMA section)
 - the Javascript standard
